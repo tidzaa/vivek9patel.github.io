@@ -101,7 +101,7 @@ input[type=range].ubuntu-slider::-webkit-slider-thumb {
 }
 
 .notFocused {
-    filter: brightness(90%);
+    filter: brightness(85%);
 }
 
 .root,
